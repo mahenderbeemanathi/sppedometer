@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.bg {
+  background-color: #07080c;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-family: roboto;
+}
+.img {
+  height: 250px;
+  width: 600px;
+}
+.heading {
+  font-size: 35px;
+}
+.speed {
+  font-size: 25px;
+}
+.para {
+  font-size: 12px;
+}
+
+.accelerate {
+  background-color: #0b69ff;
+  border-width: 0px;
+  border-radius: 5px;
+  margin: 25px;
+  color: #ffffff;
+  padding: 10px;
+}
+.brake {
+  background-color: transparent;
+  border-width: 2px;
+  border-color: #ffffff;
+  border-radius: 5px;
+  margin: 25px;
+  color: #ffffff;
+  padding: 10px;
+}
